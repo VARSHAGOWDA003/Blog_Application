@@ -19,3 +19,6 @@ Dashboard
 
 <img src="Dashboard.png" width="700">
 
+ No Blogs Page
+
+<img src="Blog.png" width="500">
