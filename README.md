@@ -7,18 +7,18 @@ The backend is built using Spring Boot and exposes REST APIs for user authentica
 The frontend is developed using React.js and communicates with backend APIs using HTTP requests. React components manage the user interface and provide pages for authentication, dashboard navigation, blog viewing, and blog creation.
 Here are some screenshots of the application.
 
-Sign In Page
+**1. SIGNIN PAGE**
 
 <img src="Signin.png" height ="300" width="300">
 
-Blog Page
+**2. BLOG PAGE**
 
 <img src="Your Blog.png" width="500">
 
-Dashboard
+**3. DASHBOARD**
 
 <img src="Dashboard.png" width="700">
 
- No Blogs Page
+ **4. NO BLOGS PAGE**
 
 <img src="Blog.png" width="500">
