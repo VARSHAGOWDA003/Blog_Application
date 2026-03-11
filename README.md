@@ -26,3 +26,7 @@ Here are some screenshots of the application.
  **4. No Blogs Page**
 
 <img src="Blog.png" width="500">
+
+ **5. Profile Update Page **
+
+<img src="ProfileUpdate.png" width="500">
