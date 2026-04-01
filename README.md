@@ -19,6 +19,10 @@ Here are some screenshots of the application.
 
 <img src="Your Blog.png" width="500">
 
+**4. Update Blog **
+
+<img src="Updateblog.png" height ="300" width="300">
+
 **3. Dashboard**
 
 <img src="Dashboard.png" width="700">
